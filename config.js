@@ -33,11 +33,15 @@ global.iconictechMenu = "v1";
  */
 global.autoRecording = false;      // Auto voice message recording
 global.autoTyping = true;          // Show typing indicators
+global.savestatus = true;
+// ========== GLOBAL SETTINGS ==========
+global.dmUnavailable = true; // Set to false to enable DMs
 global.autorecordtype = false;     // Auto recording type detection
 global.autoread = true;            // Auto read messages
 global.autobio = true;             // Auto biography updates
 global.private = true;             // Enable in private chats
 global.group = true;               // Enable in group chats  
+global.groupadvice = true;
 global.welcome = true;             // Welcome messages for new members
 global.anticall = true;            // Global anti-call protection
 global.audioblock = true;          // Audio message blocking
