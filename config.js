@@ -20,7 +20,7 @@ global.queenruva = "👑 𝐐𝐔𝐄𝐄𝐍 𝐑𝐔𝐕𝐀 𝐀𝐈 𝐁𝐄
 /**
  * Command prefix - Character that triggers bot commands
  */
-global.prefix = '!';
+global.prefix = '*';
 
 /**
  * Menu system version
@@ -32,20 +32,20 @@ global.iconictechMenu = "v1";
  * Auto-feature controls
  */
 global.autoRecording = false;      // Auto voice message recording
-global.autoTyping = true;          // Show typing indicators
+global.autoTyping = false;          // Show typing indicators
 global.savestatus = true;
 // ========== GLOBAL SETTINGS ==========
 global.dmUnavailable = true; // Set to false to enable DMs
 global.autorecordtype = false;     // Auto recording type detection
-global.autoread = true;            // Auto read messages
-global.autobio = true;             // Auto biography updates
+global.autoread = false;            // Auto read messages
+global.autobio = false;             // Auto biography updates
 global.private = true;             // Enable in private chats
 global.group = true;               // Enable in group chats  
-global.groupadvice = true;
-global.welcome = true;             // Welcome messages for new members
+global.groupadvice = false;
+global.welcome = false;             // Welcome messages for new members
 global.anticall = true;            // Global anti-call protection
 global.audioblock = true;          // Audio message blocking
-global.stickerBlock = true;        // Sticker blocking
+global.stickerBlock = false;        // Sticker blocking
 global.antilink = true;            // Anti-link sharing
 global.chataudio = false;          // Chat audio features
 global.likestatus = true;          // Status liking
@@ -65,19 +65,19 @@ global.ignoreGroups = false;       // Ignore group messages
  * Bot creator and social links
  */
 global.codewave = 'codewave-unit.zone.id';
-global.ownername = "ICONICS-TECH";
-global.ownernumber = '263786115435';
+global.ownername = "JOSHKING-TECH";
+global.ownernumber = '263738403205';
 
 /**
  * Bot branding and information
  */
-global.ytname = "📺 YouTube: https://www.youtube.com/@iconic-tech";
-global.socialm = "💻 GitHub: https://github.com/iconic05";
+global.ytname = "📺 YouTube: https://www.youtube.com/@joshuamambo1";
+global.socialm = "💻 GitHub: https://tiktok.com/joshuamambo2";
 global.location = "📍 Zimbabwe, Bulawayo";
-global.botname = "👑 ǫᴜᴇᴇɴ ʀᴜᴠᴀ ᴀɪ ʙᴇᴛᴀ";
-global.packname = "👑 ǫᴜᴇᴇɴ ʀᴜᴠᴀ ᴀɪ";
-global.author = "⚡ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴄᴏɴɪᴄ";
-global.iconic_channel = "📱 https://chat.whatsapp.com/LyFPHDvc5vMCglUFjv7Rlp";
+global.botname = "👑 ʟᴇᴀᴅᴇʀ ᴊᴏsʜᴋɪɴɢ ᴀɪ";
+global.packname = "👑 ʟᴇᴀᴅᴇʀ ᴊᴏsʜ ᴀɪ";
+global.author = "⚡ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴄᴏɴɪᴄ ᴀʟᴏɴɢsɪᴅᴇ ᴊᴏsʜ";
+global.iconic_channel = "📱 https://whatsapp.com/channel/0029VaraMtfFcowAKRdDdp1T";
 
 // =============== MESSAGE CONFIGURATION ===============
 /**
